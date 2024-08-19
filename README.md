@@ -58,6 +58,11 @@ The project provides a simple shell interface where you can enter commands to ma
 - `disp`: Display the current list of hardware items.
 - `sort <TAG> [-r]`: Sort the hardware items by the specified tag (`TYPE`, `NAME`, or `ID`). Use `-r` to reverse the order.
 
+### Start the program
+```sh
+./organized
+```
+
 ### Example Workflow
 
 Here’s a sample workflow to get you started:
